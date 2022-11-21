@@ -1,6 +1,6 @@
 # Taller-Lenguaje
-Nombres:    Ignacio Baeza 21.266538-K 
-
+Nombres:    
+            Ignacio Baeza 21.266538-K 
             Javier Nanco  20.883731-1 
 
 Profesor:   Hector Manuel Pincheira Conejeros.
